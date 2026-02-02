@@ -35,7 +35,7 @@ The second one is derived from orthorectified satellite images acquired from the
 
 This point cloud data comes from NASA National Snow and Ice Data Center Distributed Active Archive Center 
 (NSIDC DAAC) ATLAS/ICESat-2 L3A Land Ice Height dataset (ATL06, Version 7)[^3], 
-measuring land and ice-sheet elevation along 40 m segments of ground track, spaced 20 m apart. The data were acquired by
+measuring land elevation along 40 m segments of ground track, spaced 20 m apart. The data were acquired by
 the Advanced Topographic Laser Altimeter System (ATLAS) and retrieved using the SlideRule[^4] software, over the DEM aera and 
 between 01/01/2019 and 01/01/2021. 
 
