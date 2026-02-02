@@ -51,7 +51,7 @@ The second site is Gizeh, a pyramid complex located in the outskirts of Cairo, E
 
 ### DSM.tif (DSM Giza Pyramids ©2026 by CARS Version 0.12.3 – CC BY-NC 4.0)
 
-This raster was generated with [CARS v0.12.3](https://github.com/CNES/cars), an open source 3D tool dedicated to produce
+This raster was generated with [CARS v0.12.3](https://github.com/CNES/cars)[^5], an open source 3D tool dedicated to produce
 Digital Surface Models from stereo satellite images by using photogrammetry. The inputs data are proposed by CARS itself, from a tri-stereo 
 Pleiades from 08/02/2013, which can be downloaded using :
 
@@ -63,3 +63,5 @@ Pleiades from 08/02/2013, which can be downloaded using :
 The output DSM can be re-generated following the process described in the 
 [documentation](https://cars.readthedocs.io/en/0.12.3/getting_started.html) (CARS v0.12.3). Unlike the previous ones, 
 it has a 3D CRS information and contains NaN values (due to occlusion). 
+
+[^5]: D. Youssefi et al., "CARS: A Photogrammetry Pipeline Using Dask Graphs to Construct A Global 3D Model," IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 453-456, doi: 10.1109/IGARSS39084.2020.9324020.
