@@ -49,7 +49,7 @@ Date Accessed 01-22-2026.
 
 The second site is Gizeh, a pyramid complex located in the outskirts of Cairo, Egypt dating from 2500 BC. 
 
-### DSM.tif (DSM Giza Pyramids ©2026 by CARS Version 0.12.3 – CC BY-NC 4.0)
+### DSM.tif (DSM Gizeh Pyramids ©2026 by CARS Version 0.12.3 – CC BY-NC 4.0)
 
 This raster was generated with [CARS v0.12.3](https://github.com/CNES/cars)[^5], an open source 3D tool dedicated to produce
 Digital Surface Models from stereo satellite images by using photogrammetry. The inputs data are proposed by CARS itself, from a tri-stereo 
