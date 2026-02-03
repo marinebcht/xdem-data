@@ -53,7 +53,7 @@ The second site is Gizeh, a pyramid complex located in the outskirts of Cairo, E
 
 This raster was generated with [CARS v0.12.3](https://github.com/CNES/cars)[^5], an open source 3D tool dedicated to produce
 Digital Surface Models from stereo satellite images by using photogrammetry. The inputs data are proposed by CARS itself, from a tri-stereo 
-Pleiades from 08/02/2013, which can be downloaded using :
+Pleiades from 08/02/2013 ([OPEN LICENCE 2.0](data_license/open-licence-etalab-v2.0-en.pdf)), which can be downloaded using :
 
     wget https://raw.githubusercontent.com/CNES/cars/master/tutorials/data_gizeh.tar.bz2
     wget https://raw.githubusercontent.com/CNES/cars/master/tutorials/data_gizeh.tar.bz2.md5sum
