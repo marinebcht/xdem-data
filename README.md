@@ -10,7 +10,7 @@ This repo holds modified versions of these data, but we do not claim any rights 
 The first site is Longyearbyen, the world's northernmost settlement and the capital of Svalbard, a Norwegian archipelago
 north of the European continent.
 
-### DEM_1990.tif and DEM_2009.tif (©Norwegian Polar Institute – CC BY 4.0)
+#### DEM_1990.tif and DEM_2009.tif (©Norwegian Polar Institute – CC BY 4.0)
 
 These two rasters (TIFs), from the Terrengmodell Svalbard (S0 Terrengmodell) dataset[^1],
 represent two DEMs above mean sea level, generated from stereo models constructed
@@ -19,7 +19,7 @@ of land cover.
 
 [^1]: Norwegian Polar Institute (2014). Terrengmodell Svalbard (S0 Terrengmodell) [Dataset]. Norwegian Polar Institute. [https://doi.org/10.21334/NPOLAR.2014.DCE53A47](https://doi.org/10.21334/NPOLAR.2014.DCE53A47)
 
-### CryoClim_GAO_SJ_1990.shp and CryoClim_GAO_SJ_2010.shp (©Norwegian Polar Institute – CC BY 4.0)
+#### CryoClim_GAO_SJ_1990.shp and CryoClim_GAO_SJ_2010.shp (©Norwegian Polar Institute – CC BY 4.0)
 
 These two vectors (shapefiles), from the Glacier Area Outlines - Svalbard 1936-2010 dataset[^2],
 represent the glacier outlines in Svalbard in 1990 and for the 2001-2010 period. 
@@ -30,7 +30,7 @@ The second one is derived from orthorectified satellite images acquired from the
 
 [^2]: König, M., Kohler, J., & Nuth, C. (2013). Glacier Area Outlines - Svalbard 1936-2010 [Dataset]. Norwegian Polar Institute. [https://doi.org/10.21334/NPOLAR.2013.89F430F8](https://doi.org/10.21334/NPOLAR.2013.89F430F8)
 
-### EPC_IS.gpkg
+#### EPC_IS.gpkg
 
 This point cloud data comes from NASA National Snow and Ice Data Center Distributed Active Archive Center 
 (NSIDC DAAC) ATLAS/ICESat-2 L3A Land Ice Height dataset (ATL06, Version 7)[^3], 
@@ -48,7 +48,7 @@ Date Accessed 01-22-2026.
 
 The second site is Gizeh, a pyramid complex located in the outskirts of Cairo, Egypt dating from 2500 BC. 
 
-### DSM.tif (DSM Gizeh Pyramids ©2026 by CARS Version 0.12.3 – CC BY-NC 4.0)
+#### DSM.tif (DSM Gizeh Pyramids ©2026 by CARS Version 0.12.3 – CC BY-NC 4.0)
 
 This raster was generated with [CARS v0.12.3](https://github.com/CNES/cars)[^5], an open source 3D tool dedicated to produce
 Digital Surface Models from stereo satellite images by using photogrammetry. The inputs data are proposed by CARS itself, from a tri-stereo 
