@@ -44,11 +44,11 @@ Date Accessed 01-22-2026.
 
 [^4]: Shean et al., (2023). SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond. Journal of Open Source Software, 8(81), 4982, [https://doi.org/10.21105/joss.04982](https://doi.org/10.21105/joss.04982)
 
-## Gizeh
+## Giza
 
-The second site is Gizeh, a pyramid complex located in the outskirts of Cairo, Egypt dating from 2500 BC. 
+The second site is Giza, a pyramid complex located in the outskirts of Cairo, Egypt dating from 2500 BC. 
 
-#### DSM.tif (DSM Gizeh Pyramids ©2026 by CARS Version 0.12.3 – CC BY-NC 4.0)
+#### DSM.tif (DSM Giza Pyramids ©2026 by CARS Version 0.12.3 – CC BY-NC 4.0)
 
 This raster was generated with [CARS v0.12.3](https://github.com/CNES/cars)[^5], an open source 3D tool dedicated to produce
 Digital Surface Models from stereo satellite images by using photogrammetry. The inputs data are proposed by CARS itself, from a tri-stereo 
